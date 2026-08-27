@@ -1,0 +1,20 @@
+{
+  "name": "静静的专属考公学习台",
+  "short_name": "静静考公台",
+  "description": "静静的专属公务员考试学习平台，支持每日计划、时政资讯、申论积累、行测训练、错题收藏与招考雷达。",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#D6F0FF",
+  "theme_color": "#87CEEB",
+  "orientation": "portrait-primary",
+  "scope": "./",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "icon.jpg",
+      "sizes": "1024x1024",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
